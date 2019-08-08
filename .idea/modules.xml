@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-kata.iml" filepath="$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-kata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-kata.main.iml" filepath="$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-kata.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-kata.test.iml" filepath="$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-kata.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-challenge.iml" filepath="$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-challenge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-challenge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-challenge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/longestnonrepeatingsubstring-challenge.test.iml" />
     </modules>
   </component>
 </project>
